@@ -34,3 +34,12 @@ h3 {
   height: 100px;
   margin 10px 0;
   width: 100%;
+}
+
+.first This is text for a div element:nth-child(-n+1)
+.second This is text for a div element:nth-child(-n+2)
+.third This is text for a div element:nth-child(-n+3) {
+  background-color: pink
+}
+
+/*** comments ***/
